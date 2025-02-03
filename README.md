@@ -1,0 +1,2 @@
+# Data Race Example in Rust
+This repository demonstrates a potential data race in Rust when using raw pointers without proper synchronization.  The example showcases how unsafe code can lead to unexpected and inconsistent behavior if not handled carefully with thread safety mechanisms.
